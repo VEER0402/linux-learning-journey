@@ -19,4 +19,5 @@ today date is 19 dec, what i learn i am writing down
 1. **rm **command is used to remove the any file from dir.
 
 1. **rm *** command is used for removing the all file from the directory.
+2. will ad more
 ```
